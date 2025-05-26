@@ -3,9 +3,9 @@
 I'm a passionate [Your Profession/Role], specializing in [Your Field]. I love building [Type of projects] and exploring new technologies.
 
 ### 🌱 ML & AI models implementations
-1. [Deep Convolutional GAN] (https://linkedin.com/in/yourprofile)
-2. [Variational Auto Encoder (VAE)] (https://linkedin.com/in/yourprofile)
-3. [Denoising Diffusion Probabilistic Models (DDPM)] (https://linkedin.com/in/yourprofile)
+1. [Deep Convolutional GAN](https://linkedin.com/in/yourprofile)
+2. [Variational Auto Encoder (VAE)](https://linkedin.com/in/yourprofile)
+3. [Denoising Diffusion Probabilistic Models (DDPM)](https://linkedin.com/in/yourprofile)
 
 ### 💡 My interests include
 - [Interest 1]
