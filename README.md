@@ -1,6 +1,6 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋
 
-I'm a passionate [Your Profession/Role], specializing in [Your Field]. I love building [Type of projects] and exploring new technologies.
+I'm an applied AI researcher. I love studying new AI algorithms and their implementations. Some of the code snippets here are not original and were adapted from various online resources.
 
 ### 🌱 ML & AI models implementations
 1. [Deep Convolutional GAN](https://github.com/vishwa-explore/DC-GAN)
